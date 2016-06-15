@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-2e23c1976fe37735a703f0ac28f04cae5b4dc80f.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-6b96e7393d33e751dc2da2a030b033cc5ad1276c.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-750c6575ec4bd0a63ef3164e234d95c57d891d7b.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-8569d1482f55b35ba80e90d17ba931ae5a83e439.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\libs\google-api-translate-java-0.97.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="220e4c3eb792e8c50e21add2874cd1a66844ce6f">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\google-api-translate-java-0.97-412b233a9a58f5c086a36836fa47c2b590d61f6e.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\libs\pushbots-lib-2.0.13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="717c608079eb88d7f0de4bde1e399dd7255c1dbe">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\pushbots-lib-2.0.13-ec2f0ac3349f6b94d2cae72067359cc8dc309eab.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-07acb9fac6174573976bb7dfc77f7a4d665ea26a.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-ff77c758199f13cd960e571a2dae53b450e052fd.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-40bca457bcf67ec42b5e98f8e4c9a3a5f253e19b.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\volley-dfebd22a0dfc57250b94527bdbae6aff9beeb945.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-9f3dcecfe964c645faaab73dcc00f15aa72e2f9b.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\libs\microsoft-translator-java-api-0.6.1-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ab0981a9cf0c30be42a5bbee9fd7da179d8a4ae">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.6.1-jar-with-dependencies-39934235694847df29c1d580bd7cf07461408324.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-70e5bf50b7b874d792a387bbedb677809a65d5d9.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-587b8480441074c085236dd80683501ecee8a94b.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-3f77e93e5ed0a0d7276beffe8309c2818d2dc483.jar" />
+    </item>
+    <item
+        jar="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\Translatrnewdesign (2)\Translatrnewdesign\Translatrnewdesign\app\build\intermediates\pre-dexed\debug\classes-bbba4788b21d502ed9354c88a2eafb72e7ba458e.jar" />
+    </item>
+
+</items>

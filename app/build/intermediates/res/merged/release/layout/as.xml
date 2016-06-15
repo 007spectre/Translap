@@ -1,0 +1,114 @@
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_material_light"
+    android:weightSum="10"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:textSize="20sp"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/secondaryText"
+        android:layout_margin="5dp"
+
+        android:text="Source Language Hindi"
+        android:textStyle="normal" />
+    <EditText
+        android:id="@+id/txtSpeechInput"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.3"
+        android:background="@android:color/white"
+        android:layout_margin="5dp"
+
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#000000"
+        android:textSize="20sp"
+
+        android:textStyle="normal" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/secondaryText"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        android:text="Source Language English"
+        android:textStyle="normal" />
+    <EditText
+        android:id="@+id/translatedtext"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.3"
+        android:background="@android:color/white"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#000000"
+        android:textStyle="normal" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+          android:layout_margin="5dp"
+            android:text="Tap on the mic to Speak"
+            android:textColor="@color/secondaryText"
+            android:textSize="20sp"
+            android:textStyle="normal" />
+
+    <ImageButton
+        android:id="@+id/btnSpeak"
+        android:layout_width="wrap_content"
+        android:scaleType="fitCenter"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:background="@null"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ico_mic" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:text="Convert"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/primaryText"
+        android:layout_marginTop="10dp"
+        android:background="@color/primaryColor"
+
+        android:id="@+id/convert"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:text="Listen"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/primaryColor"
+
+        android:textColor="@color/primaryText"
+
+        android:id="@+id/listen"/>
+
+
+
+
+</LinearLayout>
+<!-- From: file:/D:/Translatrnewdesign%20(2)/Translatrnewdesign/Translatrnewdesign/app/src/main/res/layout/as.xml -->

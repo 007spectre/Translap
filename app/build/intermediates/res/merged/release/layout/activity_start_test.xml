@@ -1,0 +1,168 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"  >
+
+
+
+
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        card_view:cardCornerRadius="2dp"
+        card_view:contentPadding="10dp"   >
+
+        <TextView
+            android:id="@+id/cans" android:text="sadg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:visibility="gone"
+            android:textSize="28dp"
+
+             android:layout_marginLeft="5dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:weightSum="1">
+
+
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="0.9"
+            android:layout_marginLeft="10dp"
+
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/text1"
+            android:textSize="22dp"
+
+        android:text="Compare Quantity A and Quantity B, using additional information centered above the two quantities if such information is given, and select one of the following four answer choices"
+            android:textColor="@color/secondaryText"
+
+        android:textIsSelectable="true" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+
+        android:layout_gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+
+        android:layout_marginRight="10dp"
+        card_view:cardCornerRadius="2dp"
+        card_view:contentPadding="10dp"   >
+
+        <RadioGroup
+            android:id="@+id/radioSex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8 cm"
+                android:textSize="18dp"
+                 />
+
+            <RadioButton
+                android:id="@+id/radio2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+
+                android:text="20cm" />
+            <RadioButton
+                android:id="@+id/radio3"
+                android:textSize="18dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8 cm"
+                 />
+
+            <RadioButton
+                android:id="@+id/radio4"
+                android:textSize="18dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="30cm" />
+
+        </RadioGroup>
+        </android.support.v7.widget.CardView>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/correctAnswer"
+        android:textSize="22dp"
+        android:layout_margin="5dp"
+        android:textColor="@color/secondaryText"
+        android:visibility="gone"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:textSize="22dp"
+            android:textColor="@color/secondaryText"
+            android:visibility="invisible"
+            android:layout_height="40dp"/>
+        <Button
+            android:id="@+id/textView10"
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:layout_gravity="center"
+            android:layout_height="50dp"
+            android:background="@color/primaryColor"
+            android:gravity="center"
+            android:text="Submit"
+
+            android:textColor="@color/primaryText"
+            />
+
+        <Button
+            android:gravity="center"
+
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:layout_height="50dp"
+            android:text="Next"
+            android:id="@+id/next"
+            android:visibility="gone"
+
+
+
+            android:background="@color/primaryColor"
+            android:textColor="@color/primaryText"
+            android:layout_gravity="center"
+
+            />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout><!-- From: file:/D:/Translatrnewdesign%20(2)/Translatrnewdesign/Translatrnewdesign/app/src/main/res/layout/activity_start_test.xml -->
